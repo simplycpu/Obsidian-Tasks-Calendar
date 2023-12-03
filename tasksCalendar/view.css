@@ -658,7 +658,7 @@ body:not(.is-mobile) .tasksCalendar .task:hover {
 .tasksCalendar[view='week'].style10 .grid .cell:nth-child(6), .iconStyle10 .box:nth-child(6) { grid-area: 3 / 7 / 4 / 9; } 
 .tasksCalendar[view='week'].style10 .grid .cell:nth-child(7), .iconStyle10 .box:nth-child(7) { grid-area: 3 / 9 / 4 / 11; } 
 .tasksCalendar[view='week'].style11 .grid, .iconStyle11 { grid-template-rows: 1fr; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; }
-.tasksCalendar[view='week'].style11 .grid { height: 300px }
+.tasksCalendar[view='week'].style11 .grid { height: 200px }
 .tasksCalendar[view='week'].style11 .cell[data-weekday="0"], .iconStyle11 { display: none !important }
 .tasksCalendar[view='week'].style11 .cell[data-weekday="6"], .iconStyle11 { display: none !important }
 
